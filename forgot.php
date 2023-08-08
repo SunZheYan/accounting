@@ -1,0 +1,1 @@
+<script>alert("笑你忘記叉滴");window.location='singup.php';</script>
